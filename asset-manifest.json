@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ramen/static/css/main.d0d0d0ae.chunk.css",
+    "main.js": "/ramen/static/js/main.d995f413.chunk.js",
+    "main.js.map": "/ramen/static/js/main.d995f413.chunk.js.map",
+    "runtime-main.js": "/ramen/static/js/runtime-main.ae64d1fa.js",
+    "runtime-main.js.map": "/ramen/static/js/runtime-main.ae64d1fa.js.map",
+    "static/js/2.e3c5957d.chunk.js": "/ramen/static/js/2.e3c5957d.chunk.js",
+    "static/js/2.e3c5957d.chunk.js.map": "/ramen/static/js/2.e3c5957d.chunk.js.map",
+    "static/js/3.d69bc1ff.chunk.js": "/ramen/static/js/3.d69bc1ff.chunk.js",
+    "static/js/3.d69bc1ff.chunk.js.map": "/ramen/static/js/3.d69bc1ff.chunk.js.map",
+    "index.html": "/ramen/index.html",
+    "static/css/main.d0d0d0ae.chunk.css.map": "/ramen/static/css/main.d0d0d0ae.chunk.css.map",
+    "static/js/2.e3c5957d.chunk.js.LICENSE.txt": "/ramen/static/js/2.e3c5957d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/ramen/static/media/Roboto-Thin.1711b41f.ttf",
+    "static/media/Group.3503b0db.svg": "/ramen/static/media/Group.3503b0db.svg",
+    "static/media/Illustration.609f3a04.svg": "/ramen/static/media/Illustration.609f3a04.svg",
+    "static/media/Tomato.2672c309.jpg": "/ramen/static/media/Tomato.2672c309.jpg",
+    "static/media/Tonkotsu.f47b7c75.jpg": "/ramen/static/media/Tonkotsu.f47b7c75.jpg",
+    "static/media/Tori.57cd4020.jpg": "/ramen/static/media/Tori.57cd4020.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae64d1fa.js",
+    "static/js/2.e3c5957d.chunk.js",
+    "static/css/main.d0d0d0ae.chunk.css",
+    "static/js/main.d995f413.chunk.js"
+  ]
+}
